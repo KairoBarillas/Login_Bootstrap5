@@ -1,0 +1,129 @@
+.cont{
+    margin-top: 15%;
+}
+
+.row{
+    background-image: url(../img/abstract-5533510.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 8px 8px 15px #504f4ee8,-8px -8px 15px #504f4ee8;
+}
+
+.logo{
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 6%;
+    color: #ffffff;
+    font-size: 60px;
+}
+
+.leftCard>h1{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 800;
+    margin-bottom: 0;
+    margin-left: 2%;
+}
+
+.leftCard>p{
+    margin-left: 2%;
+    width: 75%;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.leftCard>button{
+    display: block;
+    margin-top: 5%;
+    margin-left: 2%;
+    font-size: 15px;
+    font-weight: 700;
+    border: none;
+    color: black;
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.leftCard .social{
+    display: inline-block;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-size: 30px;
+    font-weight: 800;
+    color: #ffffff;
+}
+
+.leftCard>div>a{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.mSocial{
+    margin-left: 3%;
+}
+
+.rightCard{
+    background-color: #FFF4E6;
+    border-top-left-radius: 30% 20%;
+    border-bottom-left-radius: 30% 20%;
+    box-shadow: -8px -8px 15px #a09990e8;
+}
+
+.rightCard>div{
+    margin-top: 17%;
+    margin-left: 5%;
+}
+
+#titulo{
+    margin-left: 10%;
+    margin-bottom: 5%;
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    font-size: 30px;
+    color: #000000;
+}
+
+.Ctexto{
+    margin-left: 10%;
+    max-width: 70%;
+    min-width: 40%;
+    border: none;
+    border-bottom: solid 2px #d6d6d5f5;
+    margin-top: 4%;
+}
+
+.rightCard>div>form>button{
+    margin-left: 10%;
+    margin-top: 10%;
+    font-weight: 600;
+    color: #000000;
+    background-color: #ffff;
+    padding: 15px 25px;
+    border: none;
+}
+
+#fgPass{
+    text-decoration: underline;
+    font-weight: 600;
+    font-size: 15px;
+    color: #000000;
+    margin-left: 10%;
+}
+
+.footerReg{
+    margin-top: 15%;
+    background-color: #FFF4E6;
+    border: none;
+}
+
+.registro{
+    display: inline;
+    font-size: 15px;
+    color: #000000;
+    font-weight: 600;
+    margin-left: 10%;
+}
